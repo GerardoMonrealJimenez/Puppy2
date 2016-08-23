@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Puppy</string>
+    <string name="titulo_top">Top</string>
+    <string name="titulo_detalles">Detalles</string>
+    <string name="nombre_perro">Firulais</string>
+    <string name="likes">5</string>
+</resources>
